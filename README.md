@@ -36,5 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makeittimeless&show_icons=true&locale=en" alt="makeittimeless" /></p>
 
-
-[![MakeItTimeless's GitHub | Stats](https://stats.quine.sh/MakeItTimeless/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MakeItTimeless)
+<!-- [![MakeItTimeless's GitHub | Stats](https://stats.quine.sh/MakeItTimeless/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MakeItTimeless) -->
