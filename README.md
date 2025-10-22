@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sryjni@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10dLO1uUlCKlkoV_cvVyObVTg5uLVI210/view](https://drive.google.com/file/d/10dLO1uUlCKlkoV_cvVyObVTg5uLVI210/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10dLO1uUlCKlkoV_cvVyObVTg5uLVI210/view](https://drive.google.com/file/d/1yoLL0haa6OjUwmxnDY9D_W3eI8jUDhzK/view?usp=drivesdk)
 
 - ⚡ Fun fact **You won’t see me in the logs... unless I want you to**
 
