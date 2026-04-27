@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Srijani M 🛡️
+#  Srijani M 
 **Associate Backend Engineer | Cyber Security Enthusiast**
 
 <p align="center">
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="maintained" />
 </p>
 
-[Portfolio](https://sizu00.vercel.app/) • [LinkedIn](https://linkedin.com/in/srijani-m-59a013249) • [Email](mailto:sryjni@gmail.com)
+[Portfolio](https://sizu00.vercel.app/) • [LinkedIn](https://linkedin.com/in/srijani-m-59a013249) • [Resume](https://drive.google.com/file/d/1euI744XyPhQpe2UtPXkyfg-AyW6_4HEd/view?usp=drivesdk) • [Email](mailto:sryjni@gmail.com)
 
 ---
 
@@ -17,13 +17,14 @@
 </div>
 
 ### 🔭 Current Focus
+* 📄 **Resume:** View my professional background [here](https://drive.google.com/file/d/1euI744XyPhQpe2UtPXkyfg-AyW6_4HEd/view?usp=drivesdk).
 * 💻 **Building:** Currently scaling an [AI Evaluator](https://github.com/pixelpartners00/ai-evaluator) platform.
 * 🛡️ **Learning:** Deep diving into Network Security & Advanced Encryption.
 * 💬 **Ask me about:** Java Microservices, Backend Architecture, and making sense of encrypted chaos.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -34,7 +35,7 @@
 
 ---
 
-### 📈 Activity & Impact
+### Activity & Impact
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=makeittimeless&show_icons=true&theme=transparent&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makeittimeless&layout=compact&theme=transparent&hide_border=true" width="41%" />
@@ -48,7 +49,7 @@
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 <p align="left">
 <a href="https://linkedin.com/in/srijani-m-59a013249"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.codechef.com/users/sryjni"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
